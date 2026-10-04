@@ -1,4 +1,4 @@
-# Demo Travel
+# yatrago Travel
 
 ## Project overview
 
