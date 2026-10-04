@@ -1,4 +1,4 @@
-# Demo
+# yatrago
 
 A thoughtfully designed travel discovery website with a tropical editorial feel, independently branded as **Demo**. The responsive homepage brings flights, hotels, holiday packages, buses, and visa planning into a single search experience.
 
