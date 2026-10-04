@@ -3,7 +3,7 @@ import { HeadContent, Scripts, createRootRoute } from '@tanstack/react-router'
 
 import '../styles.css'
 
-const siteName = 'Demo — A little away. A lot more alive.'
+const siteName = 'yatrago — A little away. A lot more alive.'
 const siteDescription = 'Find your next escape with Demo. Explore inspiring destinations, compare travel options, and plan a journey worth taking.'
 
 export const Route = createRootRoute({
